@@ -4,7 +4,7 @@ Quasar meets PY4WEB
 
 Info
 ----------------
-This provides an example of how to use [PY4WEB](www.py4web.com) and [Quasar](www.quasar.dev) together.
+This provides an example of how to use [PY4WEB](https://www.py4web.com) and [Quasar](https://www.quasar.dev) together.
 
 What is included
 -------------------
